@@ -327,7 +327,7 @@
     <bool name="config_supportDoubleTapWake">true</bool>
 
     <!-- Whether the device supports Smart Pixels -->
-    <bool name="config_enableSmartPixels">true</bool>
+    <!--<bool name="config_enableSmartPixels">true</bool>-->
 
     <!-- Boolean indicating whether the HWC setColorTransform function can be performed efficiently
          in hardware. -->
